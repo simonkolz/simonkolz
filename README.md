@@ -41,6 +41,6 @@ DevOps Engineer based in London, building scalable cloud-native infrastructure o
 
 ### 📫 Contact
 
-[![LinkedIn](www.linkedin.com/in/simon-osivaya-8aa240289)
+[LinkedIn](www.linkedin.com/in/simon-osivaya-8aa240289)
 
 📧 simonosivaya808@gmail.com
