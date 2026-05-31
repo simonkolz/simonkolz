@@ -1,9 +1,9 @@
-<h1 align="center">Simon Osivaya</h1>
+<h1 align="center">Hi, I'm Simon 👋</h1>
 <p align="center">
   <b>Cloud Platform/Devops Engineer</b><br>
   AWS • Kubernetes • Terraform • GitHub Actions • Linux • Docker • Bash 
 
-DevOps Engineer based in London, building containerised, cloud-native infrastructure on AWS. I focus on making deployments reliable, secure, and fully automated — from infrastructure as code to zero-downtime releases.
+DevOps Engineer based in London, building scalable cloud-native infrastructure on AWS. I specialise in automation, Infrastructure as Code, containerisation, and CI/CD, helping teams deliver secure, reliable applications through efficient deployment pipelines and production-ready platform engineering practices.
  
 ---
 
