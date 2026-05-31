@@ -11,9 +11,12 @@ DevOps Engineer based in London, building scalable cloud-native infrastructure o
 
 - ☸️ [**EKS Cluster with full GitOps and Observability**](https://github.com/simonkolz/eks-app-hub.git) –  EKS cluster with Terraform and  GitOps via ArgoCD, Prometheus/Grafana observability, and external-dns & cert-manager automation
 - 🔐 [**AWS Wordpress Deployment with Terraform**](https://github.com/simonkolz/aws-wordpress-deployment-terraform.git) - Automated infrastructure with modules, provisioning and application bootstrap
-- 🟦 [**AWS VPC Network Setup/ ALB Deployemt Setup**](https://github.com/simonkolz/AWS-Network-Setup.git) - Designed and deployed a fully secure Virtual Private Cloud (VPC) architecture and deploying an Application Load Balancer (ALB) to distribute traffic across EC2 instances in multiple availability zones.
+- 🧠 [**AWS VPC Network Setup/ ALB Deployemt Setup**](https://github.com/simonkolz/AWS-Network-Setup.git) - Designed and deployed a fully secure Virtual Private Cloud (VPC) architecture and deploying an Application Load Balancer (ALB) to distribute traffic across EC2 instances in multiple availability zones.
 - 🐳 [**Multi-Container Flask App with MySQL - Docker & AWS ECR**](https://github.com/simonkolz/docker-flask-app.git) - a Flask web application that uses Redis to count page visits. It includes clean styling, a personalized touch, and a multi-container Docker setup.
 - 🟦 [**CI/CD pipeline using GitHub Actions**](https://github.com/simonkolz/CICD.git) - Automate linting, testing, Docker image builds, and production deployments to GitHub Pages
+- 🖥️ [**Deploying an NGINX Web Server on AWS EC2 with a Custom Domain (Route 53)**](https://github.com/simonkolz/Networking.git) - Deploying an NGINX web server on an AWS EC2 instance, connected it to a custom domain purchased through AWS Route 53, and customized the landing page.
+
+
 
 ---
 
